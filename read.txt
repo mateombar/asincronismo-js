@@ -1,0 +1,4 @@
+Revisar los scripts del packge.json
+SCRIPTS:
+Para ejecutarlos: npm run <script>
+*   "callback": "node src/callback/index.js" : Ejecuenta el archivo senalado

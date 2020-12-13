@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "asincronismo con javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateombar/asincronismo-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Mateo Montanez Baron <mateomontabaron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateombar/asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/mateombar/asincronismo-js#readme"
+}
